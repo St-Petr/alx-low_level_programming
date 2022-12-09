@@ -3,7 +3,6 @@
  * main - Entry
  * Return: Always 0
  */
-main(void)
 int main(void)
 {
 	printf("size of char: %i byte(s)\n", sizeof(char));
