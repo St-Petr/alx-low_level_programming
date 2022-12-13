@@ -8,8 +8,8 @@
 
 int _islower(int w)
 {
-	if (w >= 'a'&& w <= 'z')
+	if (w >= 'a' && w <= 'z')
 		return (1);
 	else
-i		return (0);
+		return (0);
 }
