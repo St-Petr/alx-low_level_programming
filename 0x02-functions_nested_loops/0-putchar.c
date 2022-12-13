@@ -3,7 +3,6 @@
 
 /**
  * main - Entry point 
- * point of entry
  * Return : Always 0
  */
 
